@@ -1,0 +1,49 @@
+{
+	"name": "paper",
+	"plugin-id": "Sprite",
+	"sid": 674896799334445,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1062,
+						"height": 774,
+						"originX": 0.5,
+						"originY": 0.9489664082687338,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5554865,
+						"collisionPoly": {
+							"points": [
+								0.0009416195856873823,
+								0.0012919896640826872,
+								0.9990583804143126,
+								0.0012919896640826872,
+								0.9990583804143126,
+								1,
+								0.0009416195856873823,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 122128335835376,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 6
+			}
+		],
+		"subfolders": []
+	}
+}
